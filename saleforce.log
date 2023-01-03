@@ -1,0 +1,64 @@
+2022-11-11 12:44:44,296 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-11 12:44:46,634 INFO  [Log] ****************           -S-T-A-R-T-TestCase1       **************** 
+2022-11-11 12:44:46,635 INFO  [Log] Username entered: gkuv1230@tekarch.com 
+2022-11-11 12:44:46,638 INFO  [Log] Password entered: GKUV@2017 
+2022-11-11 12:44:46,825 INFO  [Log] Password entered successfully 
+2022-11-11 12:44:47,695 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-11 12:44:49,027 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-11 12:44:51,965 INFO  [Log] ****************           -S-T-A-R-T-TestCase2       **************** 
+2022-11-11 12:45:00,964 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-11 12:45:18,065 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-11 12:45:19,997 INFO  [Log] ****************           -S-T-A-R-T-TestCase3       **************** 
+2022-11-11 12:45:20,258 INFO  [Log] checkRememberMe  
+2022-11-11 12:45:29,826 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-11 12:45:31,041 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-11 12:45:33,354 INFO  [Log] ****************           -S-T-A-R-T-TestCase4A       **************** 
+2022-11-11 12:45:34,164 INFO  [Log] Forget Password 
+2022-11-11 12:45:34,522 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-11 12:45:51,680 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-11 12:45:53,896 INFO  [Log] ****************           -S-T-A-R-T-TestCase4B       **************** 
+2022-11-11 12:45:54,395 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-14 18:04:09,248 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-14 18:04:10,362 INFO  [Log] ****************           -S-T-A-R-T-TestCase2       **************** 
+2022-11-14 18:04:10,363 INFO  [Log] Username entered: Jnanesh 
+2022-11-14 18:04:10,364 INFO  [Log] Password entered: Test123 
+2022-11-14 18:04:11,596 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-14 18:07:19,881 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-14 18:07:23,206 INFO  [Log] ****************           -S-T-A-R-T-TestCase2       **************** 
+2022-11-14 18:07:23,208 INFO  [Log] Username entered: GKUV1230@tekarch.com 
+2022-11-14 18:07:23,208 INFO  [Log] Password entered: GKUV@2017 
+2022-11-14 18:07:30,341 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-14 18:08:56,141 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-14 18:09:00,022 INFO  [Log] ****************           -S-T-A-R-T-TestCase2       **************** 
+2022-11-14 18:09:00,022 INFO  [Log] Username entered: Jnanesh 
+2022-11-14 18:09:00,023 INFO  [Log] Password entered: Test123 
+2022-11-14 18:09:01,174 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-14 20:03:57,809 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-14 20:03:58,737 INFO  [Log] ****************           -S-T-A-R-T-TestCase1       **************** 
+2022-11-14 20:03:58,737 INFO  [Log] Username entered: GKUV1230@tekarch.com 
+2022-11-14 20:03:58,738 INFO  [Log] Password entered: GKUV@2017 
+2022-11-14 20:03:59,247 INFO  [Log] Password entered successfully 
+2022-11-14 20:04:06,592 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-14 20:04:27,437 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-14 20:04:37,022 INFO  [Log] ****************           -S-T-A-R-T-TestCase2       **************** 
+2022-11-14 20:04:37,024 INFO  [Log] Username entered: Jnanesh 
+2022-11-14 20:04:37,024 INFO  [Log] Password entered: Test123 
+2022-11-14 20:04:38,307 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-15 12:58:44,895 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-15 12:58:47,546 INFO  [Log] ****************           -S-T-A-R-T-TestCase1       **************** 
+2022-11-15 12:58:47,547 INFO  [Log] Username entered: gkuv1230@tekarch.com 
+2022-11-15 12:58:47,547 INFO  [Log] Password entered: GKUV@2017 
+2022-11-15 12:58:47,729 INFO  [Log] Password entered successfully 
+2022-11-15 12:58:48,661 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-15 12:59:18,185 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-15 12:59:20,149 INFO  [Log] ****************           -S-T-A-R-T-TestCase1       **************** 
+2022-11-15 12:59:20,150 INFO  [Log] Username entered: gkuv1230@tekarch.com 
+2022-11-15 12:59:20,151 INFO  [Log] Password entered: GKUV@2017 
+2022-11-15 12:59:20,310 INFO  [Log] Password entered successfully 
+2022-11-15 12:59:21,115 INFO  [Log] ***************             -E---N---D-Ended         *************** 
+2022-11-15 12:59:43,204 INFO  [Log] URL of the application: https://login.salesforce.com 
+2022-11-15 12:59:45,276 INFO  [Log] ****************           -S-T-A-R-T-TestCase1       **************** 
+2022-11-15 12:59:45,276 INFO  [Log] Username entered: gkuv1230@tekarch.com 
+2022-11-15 12:59:45,277 INFO  [Log] Password entered: GKUV@2017 
+2022-11-15 12:59:45,454 INFO  [Log] Password entered successfully 
+2022-11-15 12:59:46,397 INFO  [Log] ***************             -E---N---D-Ended         *************** 
